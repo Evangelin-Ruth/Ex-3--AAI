@@ -1,8 +1,8 @@
 
-ENTER YOUR NAME: Evangelin.S
-ENTER YOUR REGISTER NO: 212221230025
-EX. NO.3
-DATE- 04-09-2024
+<H2>ENTER YOUR NAME: Evangelin.S</H2>
+<H2>ENTER YOUR REGISTER NO: 212221230025</H2>
+<H2>EX. NO.3</H2>
+<H2>DATE- 05-09-2024</H2>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
 
 ### Aim: 
